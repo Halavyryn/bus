@@ -1,6 +1,7 @@
 .pageServices {
     width: 100%;
     background-color: #fff;
+    padding-bottom: 2.5rem;
 }
 
 .pageServices_title{
@@ -13,6 +14,7 @@
     width: 100%;
     display: flex;
     flex-direction: column;
+    gap: 2.5rem;
 }
 
 .pageServices__cards-item {
@@ -47,5 +49,4 @@
 .pageServices__cards-item-text {
     margin-top: 1rem;
     font-size: 1.3rem;
-    text-align: center;
 }
